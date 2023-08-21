@@ -6,4 +6,4 @@ metadata:
     component: fluentd
 data:
   elasticsearch_username: elastic
-  elasticsearch_password: ELASTIC_PASSWORD # it needs to be changed
+  elasticsearch_password: Rajani@45
